@@ -31,3 +31,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# We use a bunch of unimportant text files for testing
+*.txt
